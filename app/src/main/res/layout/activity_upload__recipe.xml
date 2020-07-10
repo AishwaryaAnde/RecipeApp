@@ -18,7 +18,7 @@
             android:layout_height="200dp"
             android:scaleType="centerCrop"
             android:id="@+id/image_Upload"
-            android:src="@drawable/icon"/>
+            android:src="@drawable/recipe"/>
 
         <EditText
             android:layout_width="match_parent"
